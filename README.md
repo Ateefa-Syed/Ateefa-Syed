@@ -25,7 +25,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="profile.jpeg" width="220" style="border-radius: 50%;">
+<img src="profile.jpeg" width="180">
 
 I'm a Computer Science student who enjoys building web applications, 
 exploring new technologies, and contributing to open-source projects.
