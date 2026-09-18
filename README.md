@@ -6,7 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=6EE7B7&center=true&vCenter=true&width=700&height=35&lines=Computer+Science+Student">
 
+</div>
+
 <br>
+
+<img align="right" src="profile.jpeg" width="350" height="350">
 
 <a href="https://github.com/Ateefa-Syed?tab=pullrequests">
 <img src="https://img.shields.io/badge/MERGED%20PRs-81%2B-171717?style=for-the-badge&labelColor=047857&color=FDE68A">
@@ -22,11 +26,11 @@
 <img src="https://img.shields.io/badge/LINKEDIN-064E3B?style=for-the-badge&logo=linkedin&logoColor=FDE68A">
 </a>
 
-<br><br>
+<br>
 
-<sub> => Building, learning and contributing through code.</sub>
+=> Building, learning and contributing through code.
 
-</div>
+<br><br><br>
 
 ---
 
@@ -40,7 +44,7 @@ I'm a Computer Science student who enjoys building web applications, exploring n
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode">
 
 </div>
 
@@ -78,3 +82,8 @@ A full-stack travel listing web application where users can create, explore, and
 
 ---
 
+<div align="center">
+
+### 💻 Code · Contribute · Grow.
+
+</div>
