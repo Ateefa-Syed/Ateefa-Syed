@@ -8,30 +8,25 @@
 
 </div>
 
-<img align="right" src="profile.jpeg" width="500" height="290">
+<img align="right" src="profile.jpeg" width="350" height="290">
 
 <a href="https://github.com/Ateefa-Syed?tab=pullrequests">
 <img src="https://img.shields.io/badge/MERGED%20PRs-81%2B-171717?style=for-the-badge&labelColor=047857&color=FDE68A">
 </a>
-
 <br>
-
 <a href="https://github.com/Ateefa-Syed">
 <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
-<br>
+
 <a href="https://www.linkedin.com/in/syedateefaazhar/">
 <img src="https://img.shields.io/badge/LINKEDIN-064E3B?style=for-the-badge&logo=linkedin&logoColor=FDE68A">
 </a>
 
-<br>
-
 => Building, learning and contributing through code.
-
 <br><br>
-<br><br><br>
-## 👩‍💻 About Me
 
+<b>👩‍💻 About Me :</b>
+<br>
 I'm a Computer Science student who enjoys building web applications, exploring new technologies, and contributing to open-source projects. I'm currently focused on strengthening my development skills and building real-world projects.
 
 ---
