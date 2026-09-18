@@ -8,12 +8,12 @@
 
 </div>
 
-<img align="right" src="profile.jpeg" width="350" height="290">
+<img align="centre" src="profile.jpeg" width="280" height="150">
 
 <a href="https://github.com/Ateefa-Syed?tab=pullrequests">
 <img src="https://img.shields.io/badge/MERGED%20PRs-81%2B-171717?style=for-the-badge&labelColor=047857&color=FDE68A">
 </a>
-<br>
+<br><br>
 <a href="https://github.com/Ateefa-Syed">
 <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
