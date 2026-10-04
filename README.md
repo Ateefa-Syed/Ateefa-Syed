@@ -66,12 +66,3 @@ A full-stack travel listing web application where users can create, explore, and
 </div>
 
 ---
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/Ateefa-Syed" alt="GitHub Contribution Graph">
-
-</div>
-
